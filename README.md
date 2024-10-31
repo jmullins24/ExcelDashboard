@@ -14,7 +14,7 @@ I developed dashboards in Excel to track key indicators for a mortgage departmen
 - <b>OFFSET</b>
 - <b>CONCATENATE</b>
 
-<h2>Program walk-through:</h2>
+<h2>Walk-through:</h2>
 
 <p align="center">
 Summary page contains all previous summaries available in drop-down: <br/>
